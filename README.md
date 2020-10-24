@@ -20,7 +20,7 @@ Noten que si abren este archivo las primeras líneas tienen comentarios:
 Para leer el archivo sin inconvenientes lo más sencillo es eliminar estas líneas.
 
 ### P5.js y Processing
-En el (Notebook)[https://github.com/sechaparroc/Intro-practica-Ciencia-Datos/blob/main/Intro.ipynb] encuentran dos pequeños programas (Sketches) que realicé para la explicación de los K-Vecinos más Cercanos ("Dime con quien andas y te diré quién eres"). 
+En el [Notebook](https://github.com/sechaparroc/Intro-practica-Ciencia-Datos/blob/main/Intro.ipynb) encuentran dos pequeños programas (Sketches) que realicé para la explicación de los K-Vecinos más Cercanos ("Dime con quien andas y te diré quién eres"). 
 
 Siempre me gusta recomendar [este maravilloso Canal de YouTube](https://www.youtube.com/user/shiffman) en el que el [Prof. Daniel Shiffman](https://shiffman.net/about/) realiza explicaciones muy didácticas sobre diversos temas de Programación.
 
