@@ -4,7 +4,7 @@ Charla con una introducción práctica a ciencia de Datos en la que se detalla e
 ## Algunas observaciones:
 
 ### Descargando e instalando
-Para ejecutar el (Notebook en Jupyter)[https://github.com/sechaparroc/Intro-practica-Ciencia-Datos/blob/main/Intro.ipynb] se recomenda instalar [Anaconda](https://youtu.be/OmmklYlRGzo) y abrir el archivo correspondiente.
+Para ejecutar el [Notebook en Jupyter](https://github.com/sechaparroc/Intro-practica-Ciencia-Datos/blob/main/Intro.ipynb) se recomenda instalar [Anaconda](https://youtu.be/OmmklYlRGzo) y abrir el archivo correspondiente.
 
 El archivo csv que contiene la información que se utilizó para la introducción de Pandas lo pueden descargar de [este enlace](https://aqicn.org/data-platform/covid19/).
 Escogen la opcion que se muestra en la imagen y les llegará información a su correo electrónico para poder descargarlo.
